@@ -1,0 +1,12 @@
+.userURL {
+	float: left;
+	margin: 5px;
+}
+
+.shortURL { 
+	margin: 5px;
+}
+
+.blocks {
+	clear: both;
+}

@@ -1,0 +1,1 @@
+a:5:{s:17:"http://google.com";s:18:"http://google/5555";s:15:"http://msdn.com";s:16:"http://msdn/4061";s:16:"http://jkdvk.com";s:17:"http://jkdvk/d8bb";s:16:"https://msdn.com";s:16:"http://msdn/9dab";s:17:"https://gmail.com";s:17:"http://gmail/938f";}
